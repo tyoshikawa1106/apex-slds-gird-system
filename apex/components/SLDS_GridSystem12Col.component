@@ -1,0 +1,40 @@
+<apex:component >
+    <div class="slds-grid">
+        <div class="slds-col slds-size--1-of-12 innerPanel slds-box">
+            <p>1</p>
+        </div>
+        <div class="slds-col slds-size--1-of-12 innerPanel slds-box">
+            <p>2</p>
+        </div>
+        <div class="slds-col slds-size--1-of-12 innerPanel slds-box">
+            <p>3</p>
+        </div>
+        <div class="slds-col slds-size--1-of-12 innerPanel slds-box">
+            <p>4</p>
+        </div>
+        <div class="slds-col slds-size--1-of-12 innerPanel slds-box">
+            <p>5</p>
+        </div>
+        <div class="slds-col slds-size--1-of-12 innerPanel slds-box">
+            <p>6</p>
+        </div>
+        <div class="slds-col slds-size--1-of-12 innerPanel slds-box">
+            <p>7</p>
+        </div>
+        <div class="slds-col slds-size--1-of-12 innerPanel slds-box">
+            <p>8</p>
+        </div>
+        <div class="slds-col slds-size--1-of-12 innerPanel slds-box">
+            <p>9</p>
+        </div>
+        <div class="slds-col slds-size--1-of-12 innerPanel slds-box">
+            <p>10</p>
+        </div>
+        <div class="slds-col slds-size--1-of-12 innerPanel slds-box">
+            <p>11</p>
+        </div>
+        <div class="slds-col slds-size--1-of-12 innerPanel slds-box">
+            <p>12</p>
+        </div>
+    </div>
+</apex:component>

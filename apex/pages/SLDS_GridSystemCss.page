@@ -1,0 +1,16 @@
+<apex:page >
+    <style type="text/css">
+        .viewPanel {
+            background-color: #CFD8DC;
+            margin: 2px;
+            padding: 10px;
+        }
+        .innerPanel {
+            background-color: #607D8B;
+            margin: 2px;
+        }
+        .sideMenu {
+            height: 500px;
+        }
+    </style>
+</apex:page>

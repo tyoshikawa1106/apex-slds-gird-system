@@ -1,0 +1,7 @@
+<apex:component >
+    <div class="slds-grid slds-wrap">
+        <div class="slds-small-order--3 slds-medium-order--2 slds-large-order--1 innerPanel slds-box" style="color: red;">1</div>
+        <div class="slds-small-order--1 slds-medium-order--3 slds-large-order--2 innerPanel slds-box">2</div>
+        <div class="slds-small-order--2 slds-medium-order--1 slds-large-order--3 innerPanel slds-box">3</div>
+    </div>
+</apex:component>

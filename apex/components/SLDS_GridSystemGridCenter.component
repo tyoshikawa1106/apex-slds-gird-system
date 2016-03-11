@@ -1,0 +1,8 @@
+<apex:component >
+    <div class="slds-grid slds-grid--align-center">
+        <div class="innerPanel slds-box">Content determines the width unless otherwise set</div>
+        <div class="innerPanel slds-box">1</div>
+        <div class="innerPanel slds-box">2</div>
+        <div class="innerPanel slds-box">3</div>
+    </div>
+</apex:component>

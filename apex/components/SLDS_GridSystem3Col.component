@@ -1,0 +1,13 @@
+<apex:component >
+    <div class="slds-grid">
+        <div class="slds-col slds-size--4-of-12 innerPanel slds-box">
+            <p>3 columns</p>
+        </div>
+        <div class="slds-col slds-size--4-of-12 innerPanel slds-box">
+            <p>3 columns</p>
+        </div>
+        <div class="slds-col slds-size--4-of-12 innerPanel slds-box">
+            <p>3 columns</p>
+        </div>
+    </div>
+</apex:component>

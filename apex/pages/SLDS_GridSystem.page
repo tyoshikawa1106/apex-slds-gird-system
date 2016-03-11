@@ -1,0 +1,38 @@
+<apex:page showHeader="true" sidebar="true">
+    <!-- Lightning Design System -->
+    <apex:stylesheet value="{!URLFOR($Resource.SLDS100, 'assets/styles/salesforce-lightning-design-system-vf.css')}" />
+    <!-- CSS -->
+    <apex:include pageName="SLDS_GridSystemCss" />
+    <!-- Main -->
+    <div class="slds" id="vf-page">
+        <!-- Header -->
+        <div class="viewPanel">
+            <h1>HEADER</h1>
+        </div>
+        <!-- Main -->
+        <div class="slds-grid">
+            <nav class="slds-col slds-size--3-of-12 viewPanel sideMenu">
+                <p>SIDE MENU</p>
+            </nav>
+            <main class="slds-col slds-size--9-of-12 viewPanel">
+                <p>MAIN CONTENT</p>
+                <!-- 3 Columns -->
+                <c:SLDS_GridSystem3Col />
+                <!-- 12 Columns -->
+                <c:SLDS_GridSystem12Col />
+                <!-- Grid Center -->
+                <c:SLDS_GridSystemGridCenter />
+                <!-- 1 Columns -->
+                <c:SLDS_GridSystem1Col />
+                <!-- Alignment Item Bump -->
+                <c:SLDS_GridSystemAlignmentItemBump />
+                <!-- Order -->
+                <c:SLDS_GridSystemOrder />
+            </main>
+        </div>
+        <!-- Footer -->
+        <div class="viewPanel">
+            <h1>FOOTER</h1>
+        </div>
+    </div>
+</apex:page>
